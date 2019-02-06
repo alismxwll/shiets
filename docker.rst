@@ -9,11 +9,9 @@ to create containers.
 
 Container: A running instance of an image is a container.
 
-Docker syntax
+Common arguments to ``docker``
 -----------
-
-common arguments::
-
+    
     -f specific docker file
     -t open a tty session
     -d start in daemon mode
@@ -23,6 +21,10 @@ common arguments::
     -a all regardless of running state
     --no-trunc more information
     -q only display numeric ids
+    -h get help
+
+Docker syntax
+-----------
 
 build an image::
 
