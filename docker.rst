@@ -1,16 +1,16 @@
 Docker
 ====
 
-Docker syntax
------------
-
 Terms
-...........
+-----------
 
 Image: The file system and configuration for and application which is used 
 to create containers.
 
 Container: A running instance of an image is a container.
+
+Docker syntax
+-----------
 
 common arguments::
 
