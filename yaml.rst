@@ -6,17 +6,17 @@ YAML syntax
 
 A value::
 
-    value
+    good
 
 A value named "pie"::
 
-    pie: value
+    pie: good
 
 A list::
 
-    - 1
-    - 2
-    - 'a string'
+    - 111
+    - 222
+    - 'string'
 
 A list named "pie"::
 
