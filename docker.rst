@@ -1,7 +1,7 @@
-DOCKER
+Docker
 ====
 
-DOCKER syntax
+Docker syntax
 -----------
 
 Terms
