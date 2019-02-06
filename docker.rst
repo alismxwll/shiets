@@ -9,8 +9,7 @@ to create containers.
 
 Container: A running instance of an image is a container.
 
-Common arguments to ``docker``
------------
+common arguments::
     
     -f specific docker file
     -t open a tty session
