@@ -4,9 +4,17 @@ DOCKER
 DOCKER syntax
 -----------
 
+Terms
+...........
+
+Image: The file system and configuration for and application which is used 
+to create containers.
+
+Container: A running instance of an image is a container.
+
 common arguments::
 
-    -f file
+    -f specific docker file
     -t open a tty session
     -d start in daemon mode
     -v mount a volume
